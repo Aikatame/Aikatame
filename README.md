@@ -1,24 +1,34 @@
 
 
-### kyot ko  
+### 𑣲𝄞  
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaml6NDRnYzNzdHU1NWt6dnMzYWhka24zNTlmMXM4OG1hZDN1bnZqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d2rYOn0ee3W3SYvCTu/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">halo, my name is shesleyimnida... lab nako sya</div>  
+### <div align="center">
+                 𝐇𝐄𝐘𝐘! 𝐒𝐓𝐎𝐏 𝐑𝐈𝐆𝐇𝐓 𝐓𝐇𝐄𝐑𝐄!
+                       ᵈⁱᵈ ᴵ ᵍᵉᵗ ʸᵒᵘʳ ᵃᵗᵗᵉⁿᵗⁱᵒⁿ ʸᵉᵗ?
+</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+-         𑁥 _ 灬 _ 𑁥             𝚃𝚑𝚒𝚜 𝚒𝚜 𝗚𝗹𝗼𝗿𝗽𝗮𝗴𝘂𝘀!
+       𐔌˶ •⁠  ᴥ  ⁠• ⋆𐦯  ←   𝙷𝚎 𝚠𝚒𝚕𝚕 𝚋𝚎 𝚐𝚞𝚒𝚍𝚒𝚗𝚐 𝚢𝚘𝚞
+        Ⳋ/          ៸|            𝗍һr᥆ᥙgһ᥆ᥙ𝗍 ᥡ᥆ᥙr ȷ᥆ᥙrᥒᥱᥡ  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+
+ᯓᡣ𐭩 𝘏𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥!! 🌎  ⊂⁠(⁠・⁠▽⁠・⁠⊂⁠)
+
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- -`✮´-  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+-                  /\____/\
+               > •       •    <  
   
 
 <br/>  
@@ -142,4 +152,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>　   　
