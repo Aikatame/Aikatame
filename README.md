@@ -1,14 +1,15 @@
 <h2 align="center"> 💙About Me💙 </h2>
 
 <p align="center">
-.<br/><br/>
+<br/><br/>
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-  
+<br/><br/>
 𝐇𝐄𝐘𝐘! 𝐒𝐓𝐎𝐏 𝐑𝐈𝐆𝐇𝐓 𝐓𝐇𝐄𝐑𝐄!
 ᵈⁱᵈ ᴵ ᵍᵉᵗ ʸᵒᵘʳ ᵃᵗᵗᵉⁿᵗⁱᵒⁿ ʸᵉᵗ? 
-
+<br/><br/>
 ᯓᡣ𐭩 𝘏𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥!! 🌎  ⊂⁠(⁠・⁠▽⁠・⁠⊂⁠) I am Shesley and I'm still learning some basic programming languages.<br/>
-And also I'm willing to learn some new programming related stuff.<br/><br/>
+And also I'm willing to learn some new programming related stuff.
+<br/><br/>
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
   
