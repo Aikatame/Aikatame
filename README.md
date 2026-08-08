@@ -1,31 +1,22 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,50:1E3A8A,100:87CEEB&height=160&section=header&animation=fadeIn"/>
-</p>
-
-
-### 𑣲𝄞  
-<div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaml6NDRnYzNzdHU1NWt6dnMzYWhka24zNTlmMXM4OG1hZDN1bnZqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d2rYOn0ee3W3SYvCTu/giphy.gif" align="center" style="width: 100%" />
-</div>  
-
----
-
 <h2 align="center"> 💙About Me💙 </h2>
 
 <p align="center">
 𝐇𝐄𝐘𝐘! 𝐒𝐓𝐎𝐏 𝐑𝐈𝐆𝐇𝐓 𝐓𝐇𝐄𝐑𝐄!
 ᵈⁱᵈ ᴵ ᵍᵉᵗ ʸᵒᵘʳ ᵃᵗᵗᵉⁿᵗⁱᵒⁿ ʸᵉᵗ?
   
-  I am Shesley and I'm still learning some basic programming languages.<br/>
+I am Shesley and I'm still learning some basic programming languages.<br/>
 And also I'm willing to learn some new programming related stuff.<br/><br/>
-    𑁥 _ 灬 _ 𑁥             𝚃𝚑𝚒𝚜 𝚒𝚜 𝗚𝗹𝗼𝗿𝗽𝗮𝗴𝘂𝘀!
- 𐔌˶ •  ᴥ  • ⋆𐦯  ←   𝙷𝚎 𝚠𝚒𝚕𝚕 𝚋𝚎 𝚐𝚞𝚒𝚍𝚒𝚗𝚐 𝚢𝚘𝚞
-  Ⳋ/          ៸|            𝗍һr᥆ᥙgһ᥆ᥙ𝗍 ᥡ᥆ᥙr ȷ᥆ᥙrᥒᥱᥡ  
-</p>
+   
   
   
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+
+ 𑁥 _ 灬 _ 𑁥             𝚃𝚑𝚒𝚜 𝚒𝚜 𝗚𝗹𝗼𝗿𝗽𝗮𝗴𝘂𝘀!
+ 𐔌˶ •  ᴥ  • ⋆𐦯  ←   𝙷𝚎 𝚠𝚒𝚕𝚕 𝚋𝚎 𝚐𝚞𝚒𝚍𝚒𝚗𝚐 𝚢𝚘𝚞
+  Ⳋ/          ៸|            𝗍һr᥆ᥙgһ᥆ᥙ𝗍 ᥡ᥆ᥙr ȷ᥆ᥙrᥒᥱᥡ  
+</p>
+
 
 ᯓᡣ𐭩 𝘏𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥!! 🌎  ⊂⁠(⁠・⁠▽⁠・⁠⊂⁠)
 I'm still learning some basic programming language such as java, C++, C#, and etc..
