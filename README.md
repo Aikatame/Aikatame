@@ -2,28 +2,12 @@
 
 <p align="center">
 𝐇𝐄𝐘𝐘! 𝐒𝐓𝐎𝐏 𝐑𝐈𝐆𝐇𝐓 𝐓𝐇𝐄𝐑𝐄!
-ᵈⁱᵈ ᴵ ᵍᵉᵗ ʸᵒᵘʳ ᵃᵗᵗᵉⁿᵗⁱᵒⁿ ʸᵉᵗ?
-  
-I am Shesley and I'm still learning some basic programming languages.<br/>
+ᵈⁱᵈ ᴵ ᵍᵉᵗ ʸᵒᵘʳ ᵃᵗᵗᵉⁿᵗⁱᵒⁿ ʸᵉᵗ? 
+  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+ᯓᡣ𐭩 𝘏𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥!! 🌎  ⊂⁠(⁠・⁠▽⁠・⁠⊂⁠) I am Shesley and I'm still learning some basic programming languages.<br/>
 And also I'm willing to learn some new programming related stuff.<br/><br/>
-   
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
   
-  
-
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-
- 𑁥 _ 灬 _ 𑁥             𝚃𝚑𝚒𝚜 𝚒𝚜 𝗚𝗹𝗼𝗿𝗽𝗮𝗴𝘂𝘀!
- 𐔌˶ •  ᴥ  • ⋆𐦯  ←   𝙷𝚎 𝚠𝚒𝚕𝚕 𝚋𝚎 𝚐𝚞𝚒𝚍𝚒𝚗𝚐 𝚢𝚘𝚞
-  Ⳋ/          ៸|            𝗍һr᥆ᥙgһ᥆ᥙ𝗍 ᥡ᥆ᥙr ȷ᥆ᥙrᥒᥱᥡ  
-</p>
-
-
-ᯓᡣ𐭩 𝘏𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥!! 🌎  ⊂⁠(⁠・⁠▽⁠・⁠⊂⁠)
-I'm still learning some basic programming language such as java, C++, C#, and etc..
-
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  
-  
-
 <br/>  
 
 
