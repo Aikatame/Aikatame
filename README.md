@@ -20,6 +20,7 @@
 - ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 ᯓᡣ𐭩 𝘏𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥!! 🌎  ⊂⁠(⁠・⁠▽⁠・⁠⊂⁠)
+I'm still learning some basic programming language such as java, C++, C#, and etc..
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  
   
@@ -152,4 +153,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>　   　
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
