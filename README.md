@@ -1,4 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,50:1E3A8A,100:87CEEB&height=160&section=header&animation=fadeIn"/>
+</p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a2/a8/a9/a2a8a90329d7030440947c6e3a711a16.gif" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&color=FFB7C5&center=true&vCenter=true&width=900&lines=Jerenze+Levi;Computer+Science+Student;The+Analyst:+Hyposelenia;I'll+become+the+Greatest+Inventor;Still+Learning;Hi+Sarah+Giamat<3;My+heart+is,+and+always+will+be,+yours." />
+</p>
 
 ### 𑣲𝄞  
 <div align="center">
