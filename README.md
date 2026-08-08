@@ -2,6 +2,7 @@
 
 <p align="center">
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+  
 𝐇𝐄𝐘𝐘! 𝐒𝐓𝐎𝐏 𝐑𝐈𝐆𝐇𝐓 𝐓𝐇𝐄𝐑𝐄!
 ᵈⁱᵈ ᴵ ᵍᵉᵗ ʸᵒᵘʳ ᵃᵗᵗᵉⁿᵗⁱᵒⁿ ʸᵉᵗ? 
 ᯓᡣ𐭩 𝘏𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥!! 🌎  ⊂⁠(⁠・⁠▽⁠・⁠⊂⁠) I am Shesley and I'm still learning some basic programming languages.<br/>
