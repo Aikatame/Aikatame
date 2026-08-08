@@ -1,3 +1,9 @@
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaml6NDRnYzNzdHU1NWt6dnMzYWhka24zNTlmMXM4OG1hZDN1bnZqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d2rYOn0ee3W3SYvCTu/giphy.gif" align="center" style="width: 100%" />
+</div>  
+
+</div>  
+
 <h2 align="center"> 💙About Me💙 </h2>
 
 <p align="center">
@@ -14,6 +20,15 @@ And also I'm willing to learn some new programming related stuff.
 
   
 <br/>  
+
+</div>  
+  
+
+-         𑁥 _ 灬 _ 𑁥             𝚃𝚑𝚒𝚜 𝚒𝚜 𝗚𝗹𝗼𝗿𝗽𝗮𝗴𝘂𝘀!
+       𐔌˶ •⁠  ᴥ  ⁠• ⋆𐦯  ←   𝙷𝚎 𝚠𝚒𝚕𝚕 𝚋𝚎 𝚐𝚞𝚒𝚍𝚒𝚗𝚐 𝚢𝚘𝚞
+        Ⳋ/          ៸|            𝗍һr᥆ᥙgһ᥆ᥙ𝗍 ᥡ᥆ᥙr ȷ᥆ᥙrᥒᥱᥡ  
+  
+
 
 
 ## My Skill Set  
